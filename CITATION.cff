@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: If you use these data, please cite the paper below.
+type: dataset
+title: "Data for: Linking EU Emissions Trading System account holders to Legal Entity Identifiers: Register-number matching precision and its pitfalls"
+authors:
+  - family-names: "Lehtinen"
+    given-names: "Anna"
+license: "CC-BY-4.0"
+url: "https://github.com/annalehtinen/eu-ets-lei-linkage-precision"
+keywords:
+  - "record linkage"
+  - "entity resolution"
+  - "linkage error"
+  - "precision"
+  - "gold standard"
+  - "EU ETS"
+  - "GLEIF"
+  - "legal entity identifier"
+  - "direct standardisation"
+  - "negative result"
+preferred-citation:
+  type: report
+  title: "Linking EU Emissions Trading System account holders to Legal Entity Identifiers: Register-number matching precision and its pitfalls"
+  authors:
+    - family-names: "Lehtinen"
+      given-names: "Anna"
+  doi: "10.5281/zenodo.23144452"
+  publisher:
+    name: "Zenodo"
+  year: 2026

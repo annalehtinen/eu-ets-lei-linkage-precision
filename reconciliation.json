@@ -1,0 +1,12 @@
+{
+  "reach_declared_lei": 3379,
+  "reach_register_key": 5511,
+  "reach_both": 1837,
+  "union": 7053,
+  "crosswalk_matched": 7053,
+  "union_agrees": true,
+  "path_b_agrees_with_population_run": true,
+  "distinct_valid_leis": 3355,
+  "leis_declared_by_multiple_holders": 22,
+  "rows_sharing_a_lei": 46
+}

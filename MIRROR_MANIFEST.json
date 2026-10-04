@@ -1,0 +1,49 @@
+{
+ "schema": "github_mirror_manifest",
+ "version": 1,
+ "repository": "annalehtinen/eu-ets-lei-linkage-precision",
+ "release_version": "1.0.0",
+ "title": "Data for: Linking EU Emissions Trading System account holders to Legal Entity Identifiers: Register-number matching precision and its pitfalls",
+ "paper_doi": "10.5281/zenodo.23144452",
+ "licence_id": "cc-by-4.0",
+ "committed_files": [
+  {
+   "path": "crosswalk_paths.csv",
+   "bytes": 820846,
+   "sha256": "2332a7194b3df8c26d7cd1ea482ec71ce017678c4c1ea1956762b1ed0ff8944b"
+  },
+  {
+   "path": "gold_standard_scores.csv",
+   "bytes": 47914,
+   "sha256": "06bbb68837b2e4fe48331f8aa1008b2da187e1461194ddf506059ae87cf82b50"
+  },
+  {
+   "path": "precision.json",
+   "bytes": 2659,
+   "sha256": "e1257028b7d28a610372c01359e28bffa0db100bdfecfa25ee009f5a4f41784c"
+  },
+  {
+   "path": "recompute_dpo01.json",
+   "bytes": 737,
+   "sha256": "1614263995157808c49ef47af4d240d2a1b453b658653529ea8a4bfe8960c396"
+  },
+  {
+   "path": "reconciliation.json",
+   "bytes": 301,
+   "sha256": "ad48ee9e40f0e389474855b57df68ffa681f51d1c63eb0c2ba35e5e524f79759"
+  }
+ ],
+ "release_assets": [],
+ "left_out": [
+  {
+   "path": "recompute_dpo01.log",
+   "bytes": 2886,
+   "reason": "code or build log; in the Zenodo record only"
+  },
+  {
+   "path": "recompute_dpo01.py",
+   "bytes": 9495,
+   "reason": "code or build log; in the Zenodo record only"
+  }
+ ]
+}

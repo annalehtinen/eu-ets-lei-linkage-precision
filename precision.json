@@ -1,0 +1,111 @@
+{
+  "run_utc": "2026-08-31T21:41:57+00:00",
+  "n_gold": 1837,
+  "correct_top1": 1781,
+  "precision_top1": 0.9695155144256941,
+  "ci_low": 0.9606212841244647,
+  "ci_high": 0.9764501075694213,
+  "precision_any_candidate": 0.9891126837234622,
+  "n_ambiguous": 58,
+  "by_jurisdiction": [
+    {
+      "jurisdiction": "BE",
+      "n": 182,
+      "precision": 0.989010989010989,
+      "ci_low": 0.9608236374882839,
+      "ci_high": 0.9969812888575935
+    },
+    {
+      "jurisdiction": "CZ",
+      "n": 140,
+      "precision": 0.9928571428571429,
+      "ci_low": 0.9606506328243919,
+      "ci_high": 0.9987380280358878
+    },
+    {
+      "jurisdiction": "DE",
+      "n": 162,
+      "precision": 0.7839506172839507,
+      "ci_low": 0.7143918100904871,
+      "ci_high": 0.8403544055755461
+    },
+    {
+      "jurisdiction": "DK",
+      "n": 82,
+      "precision": 1.0,
+      "ci_low": 0.9552478052599207,
+      "ci_high": 1.0
+    },
+    {
+      "jurisdiction": "ES",
+      "n": 70,
+      "precision": 0.9571428571428572,
+      "ci_low": 0.8814013892581987,
+      "ci_high": 0.9853187251488564
+    },
+    {
+      "jurisdiction": "FI",
+      "n": 120,
+      "precision": 0.9916666666666667,
+      "ci_low": 0.9543025846256777,
+      "ci_high": 0.9985274821693252
+    },
+    {
+      "jurisdiction": "FR",
+      "n": 24,
+      "precision": 0.9583333333333334,
+      "ci_low": 0.7975777375115778,
+      "ci_high": 0.992606734645195
+    },
+    {
+      "jurisdiction": "HR",
+      "n": 42,
+      "precision": 1.0,
+      "ci_low": 0.9161983874908382,
+      "ci_high": 1.0000000000000002
+    },
+    {
+      "jurisdiction": "IT",
+      "n": 348,
+      "precision": 0.9942528735632183,
+      "ci_low": 0.9792901517707865,
+      "ci_high": 0.9984225462160347
+    },
+    {
+      "jurisdiction": "NL",
+      "n": 290,
+      "precision": 0.996551724137931,
+      "ci_low": 0.9807288505895382,
+      "ci_high": 0.9993910507450587
+    },
+    {
+      "jurisdiction": "NO",
+      "n": 98,
+      "precision": 0.9489795918367347,
+      "ci_low": 0.8860739614476197,
+      "ci_high": 0.97801301283401
+    },
+    {
+      "jurisdiction": "PT",
+      "n": 68,
+      "precision": 1.0,
+      "ci_low": 0.9465268034119508,
+      "ci_high": 1.0
+    },
+    {
+      "jurisdiction": "SE",
+      "n": 62,
+      "precision": 0.9838709677419355,
+      "ci_low": 0.914130769926111,
+      "ci_high": 0.9971472063077598
+    },
+    {
+      "jurisdiction": "SK",
+      "n": 54,
+      "precision": 1.0,
+      "ci_low": 0.9335841332189981,
+      "ci_high": 1.0
+    }
+  ],
+  "limitation": "the gold standard covers only holders that declared an LEI; the direction of the resulting bias is not determined here"
+}
