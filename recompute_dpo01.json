@@ -1,0 +1,31 @@
+{
+ "run_utc": "2026-09-28T07:31:09.393615+00:00",
+ "rows": 22712,
+ "matched": 7053,
+ "paths": {
+  "none": 15659,
+  "register_qualified": 3674,
+  "lei_declared": 3379
+ },
+ "gold_rows": 1837,
+ "correct_top1": 1781,
+ "precision_top1": 0.9695155144256941,
+ "wilson": [
+  0.9606214674077379,
+  0.9764499961527872
+ ],
+ "precision_any_candidate": 0.9891126837234622,
+ "gold_delivered_paths": {
+  "lei_declared": 1837
+ },
+ "register_rows_scored_by_gold": 0,
+ "standardised_precision_by_floor": {
+  "20": 0.9545993870156225,
+  "5": 0.9533113110794988,
+  "1": 0.9618987632914413
+ },
+ "delivered_register_mass_with_gold": 0.9959172563962982,
+ "delivered_register_mass_with_gold_ge20": 0.6902558519324986,
+ "checks_passed": 29,
+ "checks_total": 29
+}
